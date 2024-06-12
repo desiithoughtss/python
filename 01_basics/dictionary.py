@@ -1,4 +1,4 @@
-chai_types = {"masala": "spicy", "ginger": "zesty", "green": "mild"}
+chai_types = {"masala": "spicy chai", "ginger": "zesty chai", "green": "mild chai"}
 print(chai_types)
 #
 print(chai_types["masala"])
